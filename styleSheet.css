@@ -37,6 +37,7 @@ header nav ul li a{
 }
 .CrazyCruiserLogo{
     background: url("imgs/logov8_v3.png");
+    background-repeat:no-repeat;
     background-size:contain;
     width:674px;
     height:403px;
