@@ -48,13 +48,31 @@ header nav ul li a{
     width:915px;
 }
 .Video iframe{
+    float:left;
     width:915px;
     height:520px;
     border:0;
+}
+.RacerImages{
+    float:left;
+    width:75%;
+    height:auto;
+    margin:100px 12.5%;
+}
+.RacerImages a{
+    float:left;
+    width:19%;
+    padding:0 .5%;
+    margin:0;
+}
+.RacerImages a img{
+    width:100%;
+    margin:0;
 }
 footer{
     margin: 0;
     width:100%;
     height:87px;
     background-color:#3fc1c9;
+    float:left;
 }
